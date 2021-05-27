@@ -44,7 +44,7 @@ may be a consideration for the future, but it was not deemed as an essential fea
 
 ### POST /schedules
 
-### DELETE /schedules
+### DELETE /schedules/{id}
 
 ### PUT /schedules/{id}
 
