@@ -1,5 +1,5 @@
 ---
-title: Dog Feeder
+title: Pet Feeder
 ---
 
 ## Problem
