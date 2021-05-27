@@ -40,6 +40,8 @@ may be a consideration for the future, but it was not deemed as an essential fea
 
 ### GET /schedules/active
 
+### GET /schedules/inactive
+
 ### POST /schedules
 
 ### DELETE /schedules
