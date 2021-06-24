@@ -2,12 +2,6 @@
 title: System Service
 ---
 
-## Table of Contents
-
-* [Create System Service](#create-system-service)
-* [Remove System Service](#remove-system-service)
-* [System Service Logs](#system-service-logs)
-
 This application is designed to be run as a system service. Below are the steps to install or 
 remove it.
 
@@ -19,9 +13,9 @@ the directory that you have copied the application files to.
 ```bash
 sudo cp falconpitwitter.service /lib/systemd/system
 sudo systemctl daemon-reload
-sudo systemctl enable falconpimonitor
-sudo systemctl start falconpimonitor
-sudo systemctl status falconpimonitor
+sudo systemctl enable falconpitwitter
+sudo systemctl start falconpitwitter
+sudo systemctl status falconpitwitter
 ```
 
 ## Remove System Service
@@ -29,9 +23,9 @@ sudo systemctl status falconpimonitor
 To uninstall the system service, run the below commands
 
 ```sh
-sudo systemctl disable falconpimonitor
-sudo systemctl stop falconpimonitor
-sudo systemctl status falconpimonitor
+sudo systemctl disable falconpitwitter
+sudo systemctl stop falconpitwitter
+sudo systemctl status falconpitwitter
 sudo systemctl daemon-reload
 sudo rm /lib/systemd/system/falconpitwitter.service
 ```
