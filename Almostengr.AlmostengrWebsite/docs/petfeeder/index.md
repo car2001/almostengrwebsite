@@ -2,6 +2,10 @@
 title: Pet Feeder
 ---
 
+<div class="bg-warning p-2">
+Documentation has not been finalized at this time.
+</div>
+
 ## Table of Contents
 
 * [Project Background](#background)

@@ -1,5 +1,9 @@
 # Pet Feeder API
 
+<div class="bg-warning p-2">
+Documentation has not been finalized at this time.
+</div>
+
 All of the operations performed by the pet feeder are done through the API. In addition, the web application 
 sends and gets data from the API. It is possible to have this configured to work with voice 
 assistants such as Amazon Alexa or Google Home and to work with home automation systems like 
