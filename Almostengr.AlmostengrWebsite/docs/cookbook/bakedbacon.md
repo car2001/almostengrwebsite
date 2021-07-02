@@ -4,11 +4,6 @@
 
 * Bacon
 
-## Tools
-
-* Oven pre-heated to 400 F (205 C)
-* Cooking sheet (or cast iron skillet)
-
 ## Directions
 
 * Pre-heat oven to stated temperature

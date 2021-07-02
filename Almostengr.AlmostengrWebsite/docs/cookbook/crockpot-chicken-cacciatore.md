@@ -15,7 +15,7 @@ Serves 4-8
 * Kosher salt and pepper 
 * cooked pasta
   
-## Instructions
+## Directions
 
 * Place sliced onion in Crockpot and cover with chicken
 * in a bowl, stir tomatoes, salt, pepper, garlic, and white wine together, pour over chicken

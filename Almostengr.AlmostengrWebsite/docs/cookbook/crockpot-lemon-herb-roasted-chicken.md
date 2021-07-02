@@ -13,7 +13,7 @@ Serves 4-6
 * 1/2 teaspoon dried thyme
 * 1/3 teaspooon paprika
 
-## Cooking
+## Directions
 
 * place the onino in the cavity of the chicken and rub the skin with butter. Place chcicken in crockpot
 * squeeze lemon juice over chicken and sprinkle with remaining seasonings. Cover and cook on low 8-10 hours

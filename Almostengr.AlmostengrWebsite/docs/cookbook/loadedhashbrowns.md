@@ -14,7 +14,7 @@ keywords: cooking, hash browns, breakfast, brunch, what to eat
 * seasonings
 * cooking spray
 
-## Cooking
+## Directions
 
 * Pre-heat waffle iron or maker while chopping and mixing ingredients
 * If cutting potatoes into hash browns, remove the excess water from the potatoes
@@ -24,7 +24,7 @@ keywords: cooking, hash browns, breakfast, brunch, what to eat
 longer it will take to cook. 
 * Once the hash browns are done cooking, remove them from the waffle iron.
 
-## Other Notes
+## Notes
 
 * Hash browns were difficult to remove from the waffle iron because of the grooves in the waffle iron. 
 * Be sure to use cooking spray before adding the food. It will make removing the cooked items easier.

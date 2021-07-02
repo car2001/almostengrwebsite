@@ -7,7 +7,7 @@
 * seasonings
 * water
 
-## Cooking
+## Directions
 
 * Wash collards (if they are not already washed)
 * Chop collards into smaller pieces or strips

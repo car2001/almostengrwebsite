@@ -14,7 +14,7 @@ Servce 6-10
 * 1 cup mushrooms, sliced
 * 1 cup beef broth or wine
 
-## Cooking 
+## Directions 
 
 * coat roast with 1/2 cup flour, salt, and pepper. sear roast in skillet on stovetop (optional)
 * place all vegetables in crokcpot, except mushrooms. Add roast and spread mushrooms on top. pour in liquid

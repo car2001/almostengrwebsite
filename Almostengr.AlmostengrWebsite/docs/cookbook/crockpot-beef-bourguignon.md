@@ -19,7 +19,7 @@ Serves 6-8
 * 1 pund fresh mushroom, sliced
 * 2 large potatoes, cut into 1-inch pieces
 
-## Cooking
+## Directions
 
 * coat beef into flour seasoned with salt and pepper. sear beef in a skillet on stovetop (optional)
 * place meat in corkcpot and add remaining ingredients

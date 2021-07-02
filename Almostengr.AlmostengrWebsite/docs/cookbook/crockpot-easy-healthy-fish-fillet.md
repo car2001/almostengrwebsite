@@ -10,7 +10,7 @@ Serves 4-6
 * 2-3 lemons, thinly sliced
 * prepared salsa or olive tapenade to garnish
 
-## Cooking 
+## Directions 
 
 * salt and pepper both sides of the fish and place in crockpot. cover top fo fish with herbs and lemon 
 slices, and tuck some under fish 

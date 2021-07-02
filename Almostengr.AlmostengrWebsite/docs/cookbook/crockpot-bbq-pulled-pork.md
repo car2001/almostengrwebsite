@@ -9,7 +9,7 @@ Serves 6-8
 * 2-4 onions, chopped
 * 6-8 hamburger buns or hard rolls
 
-## Cooking
+## Directions
 
 * place pork loin in corkcpot. top with onion and barbecue sauce
 * cover and cook on low for 7-9 hours or high for 4-5 hours, or until meat is tender

@@ -22,7 +22,7 @@ hours depending on the weight.
 * Remove the chicken from the oven. Allow to rest for 10 minutes.
 * Cut chicken into pieces and serve.
 
-## Final product
+## Notes
 
 Below is the cooked chicken with the leg cut apart.
 

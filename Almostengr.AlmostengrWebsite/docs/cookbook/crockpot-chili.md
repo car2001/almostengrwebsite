@@ -15,7 +15,7 @@ Serves 6-8
 * 1 teaspoon cayenne pepper 
 * 1/2 cup beef broth 
 
-## Cooking
+## Directions
 
 * add all ingredients to crockpot
 * cover and cook on low for 8-9 hours or high for 4-5 hours

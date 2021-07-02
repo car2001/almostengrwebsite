@@ -15,7 +15,7 @@ Serves 6-8
 * 2-3 oninos, chopped
 * 3 celery stalks, sliced
 
-## Cooking
+## Directions
 
 * sprinkle flour, salt and pepper over meat. place meat in crockpot 
 * add remaining ingredients and stir well

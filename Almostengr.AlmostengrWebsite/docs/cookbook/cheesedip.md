@@ -6,11 +6,6 @@
 * 2 handfuls of shredded cheddar cheese (or other cheese of your chosing)
 * salsa
 
-## Tools 
-
-* Microwave
-* Microwave-safe bowl
-
 ## Directions
 
 * Place cream cheese, cheddar cheese, and salsa into a microwave-safe bowl. Depending on how cheesy you 

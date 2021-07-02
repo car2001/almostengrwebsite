@@ -12,7 +12,7 @@ Serves 8-10
 * cooked pasta
 * grated cheese
 
-## Cooking
+## Directions
 
 * brown sausage and meatballs in a skillet on stovetop (optional)
 * add all ingredients to corkcpot except pasta and grated cheese

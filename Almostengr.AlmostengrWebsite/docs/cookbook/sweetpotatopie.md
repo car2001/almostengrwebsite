@@ -23,5 +23,4 @@
 * Mix until smooth
 * Pour filling into graham cracker crust, filling the crust about 1/2 to 2/3 full.
 * Bake in the oven for 45 minutes or until knife inserted comes out clean.
-  Pie will swell as it cooks. It will return to normal once cooled.
-
+Pie will swell as it cooks. It will return to normal once cooled.

@@ -8,7 +8,7 @@ Serves 6-10
 * 2-4 cups barbeque sauce
 * 2-4 onions, chopped
 
-## 
+## Directions
 
 * place ribs in corckpot. top with onion and barbecue sauce
 * cover and cook on low for 7-9 hours or high for 4-5 hours or until meat is tender

@@ -16,4 +16,3 @@ with hands (use gloves if necessary)
 * Depending on the level of done-ness (well done, medium rare, etc),
 flip the burger over. Let brown again
 * Remove burger from the gril and enjoy!
-
