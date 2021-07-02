@@ -8,26 +8,9 @@ on:
       - '!website'
 
 jobs:
-  # spelling:
-  #   name: Check Spelling
-  #   runs-on: ubuntu-latest
-
-  #   steps:
-  #   - uses: actions/checkout@v2
-
-  #   - name: Remove duplicates from and sort wordlist
-  #     run: (/bin/cat .wordlist.txt | /usr/bin/sort | /usr/bin/uniq) > .wordlist.tmp
-
-  #   - name: Moving cleaned wordlist
-  #     run: /bin/mv .wordlist.tmp .wordlist.txt
-
-  #   - uses: rojopolis/spellcheck-github-actions@0.5.0
-  #     name: Spellcheck
-
   build:
     name: Build
     runs-on: ubuntu-latest
-    # needs: spelling
 
     steps:
     - uses: actions/checkout@v2
@@ -45,3 +28,11 @@ jobs:
 
     - name: Build website files
       run: /usr/bin/python3 -m mkdocs build -f Almostengr.AlmostengrWebsite/mkdocs.yml
+
+    - run: |
+        cd Almostengr.AlmostengrWebsite/docs/images
+        for i in $(ls -1 Almostengr.AlmostengrWebsite/docs/images/*jpg Almostengr.AlmostengrWebsite/docs/images/*png);
+        do 
+        echo $i
+        convert -resize 50% $i Almostengr.AlmostengrWebsite/docs/img/$i
+        done
